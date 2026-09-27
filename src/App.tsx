@@ -599,9 +599,9 @@ function App() {
                 <div className="project-footer">
 
                   <a
-                    href="https://github.com/Sreecharan94"
+                    href="https://github.com/Sreecharan94/Federated-Learning-IDS"
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                   >
                     <FaGithub />
                     View on GitHub
